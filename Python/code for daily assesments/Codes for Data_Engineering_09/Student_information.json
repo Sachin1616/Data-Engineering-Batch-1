@@ -1,0 +1,9 @@
+{
+  "StudentID": 123456,
+  "Name": "Sachin",
+  "Age": 22,
+  "Gender": "Male",
+  "Major": "Computer Science",
+  "Courses": ["Introduction to Programming", "Database Management", "Data Structures"],
+  "GPA": 7.5
+}
